@@ -1,1 +1,1 @@
-a tool written in pyhton to generate hashes (md5,sha1..)
+A tool written in pyhton to generate hashes (md5,sha1..)
